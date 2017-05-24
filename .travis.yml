@@ -28,5 +28,5 @@ after_success:
   - ./vendor/bin/test-reporter
 
 # configure notifications (email, IRC, campfire etc)
-notifications:
-  email: "ashley@zf4.biz"
+# notifications:
+#  email: "ashley@zf4.biz"
